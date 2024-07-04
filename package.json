@@ -1,0 +1,38 @@
+{
+  "name": "oyster_reef",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@react-three/drei": "^9.106.0",
+    "@react-three/fiber": "^8.16.7",
+    "@types/three": "^0.165.0",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.0.25",
+    "gsap": "^3.12.5",
+    "hamburger-react": "^2.5.0",
+    "next": "14.1.4",
+    "nodemailer": "^6.9.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-player": "^2.15.1",
+    "three": "^0.165.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.14",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
