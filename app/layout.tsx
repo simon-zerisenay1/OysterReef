@@ -10,7 +10,7 @@ import { Suspense } from 'react';
 const font = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Oyster Reef',
+  title: 'Blu Reef',
   description: 'Fujairah Research Center',
 };
 
