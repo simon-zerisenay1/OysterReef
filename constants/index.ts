@@ -33,25 +33,25 @@ export const SOCIALS = {
 export const ARCREEF_FACTS = [
   {
     title: 'Water Filtration',
-    description: `Oyster reefs act as natural filters, with each oyster capable of filtering several gallons of water per day. By removing suspended particles, excess nutrients, and pollutants, they improve water clarity and quality, benefiting marine life and supporting healthy aquatic ecosystems.`,
+    description: `blu reefs act as natural filters, with each blu capable of filtering several gallons of water per day. By removing suspended particles, excess nutrients, and pollutants, they improve water clarity and quality, benefiting marine life and supporting healthy aquatic ecosystems.`,
   },
   {
     title: 'Coastal Protection',
-    description: `Oyster reefs help stabilize shorelines and protect coastal areas from erosion and storm damage. The intricate structure of the reefs dissipates wave energy, reducing the impacts of waves and currents on adjacent shorelines. This natural coastal defense is particularly valuable in mitigating the effects of storms, sea level rise, and erosion.`,
+    description: `blu reefs help stabilize shorelines and protect coastal areas from erosion and storm damage. The intricate structure of the reefs dissipates wave energy, reducing the impacts of waves and currents on adjacent shorelines. This natural coastal defense is particularly valuable in mitigating the effects of storms, sea level rise, and erosion.`,
   },
   {
     title: 'Habitat and Biodiversity',
-    description: `Oyster reefs provide critical habitat for a wide range of marine organisms. The reefs offer shelter, breeding grounds, and foraging areas for fish, crabs, mollusks, and other invertebrates. This high level of biodiversity supports ecosystem resilience and promotes the productivity of coastal waters`,
+    description: `blu reefs provide critical habitat for a wide range of marine organisms. The reefs offer shelter, breeding grounds, and foraging areas for fish, crabs, mollusks, and other invertebrates. This high level of biodiversity supports ecosystem resilience and promotes the productivity of coastal waters`,
   },
   {
     title: 'Economic Powerhouses',
-    description: `Oyster reefs support valuable fisheries by providing habitat for commercially important species, providing food for millions of people, and attracting tourists from around the world.`,
+    description: `blu reefs support valuable fisheries by providing habitat for commercially important species, providing food for millions of people, and attracting tourists from around the world.`,
   },
 ];
 
 export const IMPORTANCE_CORAL_REEFS = {
-  title: 'Why are Oyster Reefs Important?',
-  description: `An oyster reef refers to a structure formed by clusters of oysters tightly packed together. These reefs are typically found in shallow coastal waters. Over time, oyster reefs are the most severely threatened marine habitat in the world, a habitat that provides shelter and food for a diverse array of marine life. Oyster reefs play a crucial role in marine ecosystems, contributing to water filtration, shoreline stabilization, and biodiversity conservation. Additionally, they have significant economic and cultural importance, supporting commercial fisheries and providing recreational opportunities for activities like fishing and shellfish harvesting.`,
+  title: 'Why are blu Reefs Important?',
+  description: `An blu reef refers to a structure formed by clusters of blus tightly packed together. These reefs are typically found in shallow coastal waters. Over time, blu reefs are the most severely threatened marine habitat in the world, a habitat that provides shelter and food for a diverse array of marine life. blu reefs play a crucial role in marine ecosystems, contributing to water filtration, shoreline stabilization, and biodiversity conservation. Additionally, they have significant economic and cultural importance, supporting commercial fisheries and providing recreational opportunities for activities like fishing and shellfish harvesting.`,
 };
 
 export const PARTNERS_LOGOS = [
@@ -107,7 +107,7 @@ export const BEFORE_AFTER_OYSTEER = [
     title: 'After',
     description: `
 After Installation of Artificial Reefs:
-"Observe the enriched marine ecosystem following the introduction of variously shaped artificial reefs, including oyster shells. This segment demonstrates increased fish attraction and habitat complexity, revealing the tangible benefits of these structures in enhancing marine biodiversity."`,
+"Observe the enriched marine ecosystem following the introduction of variously shaped artificial reefs, including blu shells. This segment demonstrates increased fish attraction and habitat complexity, revealing the tangible benefits of these structures in enhancing marine biodiversity."`,
     videoUrl:
       'https://www.youtube.com/watch?v=8SJ71FTXI6U',
   },
