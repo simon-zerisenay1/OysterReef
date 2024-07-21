@@ -33,24 +33,24 @@ export const SOCIALS = {
 export const ARCREEF_FACTS = [
   {
     title: 'Water Filtration',
-    description: `blu reefs act as natural filters, with each blu capable of filtering several gallons of water per day. By removing suspended particles, excess nutrients, and pollutants, they improve water clarity and quality, benefiting marine life and supporting healthy aquatic ecosystems.`,
+    description: `Blu reefs act as natural filters, with each blu capable of filtering several gallons of water per day. By removing suspended particles, excess nutrients, and pollutants, they improve water clarity and quality, benefiting marine life and supporting healthy aquatic ecosystems.`,
   },
   {
     title: 'Coastal Protection',
-    description: `blu reefs help stabilize shorelines and protect coastal areas from erosion and storm damage. The intricate structure of the reefs dissipates wave energy, reducing the impacts of waves and currents on adjacent shorelines. This natural coastal defense is particularly valuable in mitigating the effects of storms, sea level rise, and erosion.`,
+    description: `Blu reefs help stabilize shorelines and protect coastal areas from erosion and storm damage. The intricate structure of the reefs dissipates wave energy, reducing the impacts of waves and currents on adjacent shorelines. This natural coastal defense is particularly valuable in mitigating the effects of storms, sea level rise, and erosion.`,
   },
   {
     title: 'Habitat and Biodiversity',
-    description: `blu reefs provide critical habitat for a wide range of marine organisms. The reefs offer shelter, breeding grounds, and foraging areas for fish, crabs, mollusks, and other invertebrates. This high level of biodiversity supports ecosystem resilience and promotes the productivity of coastal waters`,
+    description: `Blu reefs provide critical habitat for a wide range of marine organisms. The reefs offer shelter, breeding grounds, and foraging areas for fish, crabs, mollusks, and other invertebrates. This high level of biodiversity supports ecosystem resilience and promotes the productivity of coastal waters`,
   },
   {
     title: 'Economic Powerhouses',
-    description: `blu reefs support valuable fisheries by providing habitat for commercially important species, providing food for millions of people, and attracting tourists from around the world.`,
+    description: `Blu reefs support valuable fisheries by providing habitat for commercially important species, providing food for millions of people, and attracting tourists from around the world.`,
   },
 ];
 
 export const IMPORTANCE_CORAL_REEFS = {
-  title: 'Why are blu Reefs Important?',
+  title: 'Why are Blu Reefs Important?',
   description: `An blu reef refers to a structure formed by clusters of blus tightly packed together. These reefs are typically found in shallow coastal waters. Over time, blu reefs are the most severely threatened marine habitat in the world, a habitat that provides shelter and food for a diverse array of marine life. blu reefs play a crucial role in marine ecosystems, contributing to water filtration, shoreline stabilization, and biodiversity conservation. Additionally, they have significant economic and cultural importance, supporting commercial fisheries and providing recreational opportunities for activities like fishing and shellfish harvesting.`,
 };
 
