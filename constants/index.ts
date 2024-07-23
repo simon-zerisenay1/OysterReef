@@ -33,25 +33,34 @@ export const SOCIALS = {
 export const ARCREEF_FACTS = [
   {
     title: 'Water Filtration',
-    description: `Blu reefs act as natural filters, with each blu capable of filtering several gallons of water per day. By removing suspended particles, excess nutrients, and pollutants, they improve water clarity and quality, benefiting marine life and supporting healthy aquatic ecosystems.`,
+    description: `Reefs act as natural filters, enhancing water clarity and quality by removing suspended particles, excess nutrients, and pollutants, thus benefiting marine life and supporting healthy aquatic ecosystems.`,
+    image: '/waterfilter.PNG' // Corrected the key
   },
   {
     title: 'Coastal Protection',
-    description: `Blu reefs help stabilize shorelines and protect coastal areas from erosion and storm damage. The intricate structure of the reefs dissipates wave energy, reducing the impacts of waves and currents on adjacent shorelines. This natural coastal defense is particularly valuable in mitigating the effects of storms, sea level rise, and erosion.`,
+    description: `Reefs stabilize shorelines and protect coastal areas by dissipating wave energy, reducing erosion and storm damage. This natural defense mitigates the effects of storms, sea level rise, and erosion.`,
+    image: '/Coastal.PNG' // Corrected the key
   },
   {
     title: 'Habitat and Biodiversity',
-    description: `Blu reefs provide critical habitat for a wide range of marine organisms. The reefs offer shelter, breeding grounds, and foraging areas for fish, crabs, mollusks, and other invertebrates. This high level of biodiversity supports ecosystem resilience and promotes the productivity of coastal waters`,
+    description: `Reefs provide vital habitat for marine organisms, offering shelter, breeding grounds, and foraging areas for fish, crabs, mollusks, and other invertebrates, thus supporting biodiversity and ecosystem resilience.`,
+    image: '/habitat.PNG' // Corrected the key
   },
   {
     title: 'Economic Powerhouses',
-    description: `Blu reefs support valuable fisheries by providing habitat for commercially important species, providing food for millions of people, and attracting tourists from around the world.`,
+    description: `Reefs support valuable fisheries by providing habitat for commercially important species, providing food for millions of people, and attracting tourists from around the world.`,
+    image: '/economic.PNG' // Corrected the key
   },
 ];
 
 export const IMPORTANCE_CORAL_REEFS = {
   title: 'Why are Blu Reefs Important?',
-  description: `An blu reef refers to a structure formed by clusters of blus tightly packed together. These reefs are typically found in shallow coastal waters. Over time, blu reefs are the most severely threatened marine habitat in the world, a habitat that provides shelter and food for a diverse array of marine life. blu reefs play a crucial role in marine ecosystems, contributing to water filtration, shoreline stabilization, and biodiversity conservation. Additionally, they have significant economic and cultural importance, supporting commercial fisheries and providing recreational opportunities for activities like fishing and shellfish harvesting.`,
+  description: `Coral reefs are crucial for ocean health and human societies. They provide habitat for 25% of marine species, supporting biodiversity. Reefs protect coastlines from erosion and storm surge by absorbing wave energy. 
+<br /><br />
+ Economically, reefs support fisheries and tourism, offering livelihoods and food security for millions. They also hold medicinal value, with many marine organisms contributing to new medical treatments. 
+<br /><br />
+Reefs are essential for marine life, coastal protection, economic stability, and medical advancements. Preserving them is vital for ecological and human well-being
+`,
 };
 
 export const PARTNERS_LOGOS = [
@@ -79,11 +88,33 @@ export const PARTNERS_LOGOS = [
     alt: 'Atlantis',
     url: 'https://www.atlantis.com/dubai',
   },
+  {
+    name: 'Fujairah Research Center',
+    src:'/partners/logo.png',
+    alt: 'Fujairah Research Center',
+    url: 'https://www.frc.ae/',
+  },
+  {
+    name: 'Fujairah Environment Authority',
+    src: '/partners/5.png',
+    alt: 'Fujairah Environment Authority',
+    url: 'https://fea.gov.ae/portal/',
+  },
+  {
+    name: 'Arias Tech solution',
+    src: '/partners/6.png',
+    alt: 'Arias Tech solution',
+    url: 'https://www.ariastechsolutions.com/',
+  }
 ];
 
 export const ABOUT_US = {
   title: 'About Us',
-  description: `Our core focus lies in partnering with private sector enterprises to rejuvenate marine ecosystems. Through the deployment of our innovative Reef Tiles, we work alongside our clients to help them fulfill their Environmental, Social, and Governance (ESG) objectives, leveraging cutting-edge frameworks such as the United Nations Sustainable Development Goals (SDGs) and the Taskforce on Nature-related Financial Disclosures (TNFD). Additionally, we offer enhanced features to our clients, including comprehensive monitoring and reporting tools to track the impact of their initiatives, as well as tailored solutions to address specific environmental challenges faced by their businesses.`,
+  description: `
+  Blu reef, based in the UAE, is dedicated to restoring and preserving marine ecosystems. Partnering with the Fujairah research center, we utilize advanced methods to monitor reef health, ensuring effective and sustainable interventions.
+  Our proven track record of successful projects highlights our commitment to promoting marine biodiversity and resilience. At the forefront of marine conservation, Emirati reef is making a positive impact on our planet's oceans.
+
+  `,
 };
 
 export const MISSION = {

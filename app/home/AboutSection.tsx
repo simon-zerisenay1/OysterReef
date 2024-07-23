@@ -19,7 +19,7 @@ const AboutSection = () => {
           <h1 className='text-blue-950 md:min-w-[500px]'>
             {IMPORTANCE_CORAL_REEFS.title}
           </h1>
-          <p>{IMPORTANCE_CORAL_REEFS.description}</p>
+          <p dangerouslySetInnerHTML={{ __html: IMPORTANCE_CORAL_REEFS.description }}></p>
         </div>
         <h1 className='text-blue-950 md:min-w-[400px] mt-40 mb-10'>
           Blu-reef Facts

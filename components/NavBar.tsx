@@ -32,17 +32,17 @@ const NavBar = () => {
 
   return (
     <nav
-      className={`flex justify-between w-full fixed z-50 p-5 `}
+      className={`flex justify-between w-full fixed z-50 px-5 `}
       style={{
         backgroundColor: `rgba(23,37,84, ${opacity || isOpen ? '1' : '0'})`,
         transition: 'background-color 0.5s ease',
       }}
     >
       <Link href='/'>
-        <Image src='/logo.png' alt='logo' height={70} width={150} />
+        <Image src='/logo.png' alt='logo' height={50} width={100} />
       </Link>
 
-      <ul className='hidden h-full gap-12 md:flex text-white items-center'>
+      <ul className='hidden h-full gap-12 md:flex text-white items-center py-5'>
         {NAV_LINKS.map((link) => (
           <Link
             href={link.href}
