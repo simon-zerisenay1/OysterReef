@@ -7,6 +7,7 @@ import {
 } from '@/constants';
 import { kMaxLength } from 'buffer';
 import Image from 'next/image';
+import MeetingScheduler from '@/components/schedulePopup';
 
 import React from 'react';
 import ReactPlayer from 'react-player';
@@ -47,6 +48,9 @@ const AboutSection = () => {
             </div>
           </div>
         ))}
+        <div className='w-full flex justify-start mb-10'>
+          <MeetingScheduler />
+        </div>
       </div>
     </section>
   );

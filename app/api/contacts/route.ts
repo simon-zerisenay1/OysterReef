@@ -49,7 +49,7 @@ export async function POST(req: Request, res: Response) {
         name: 'Oyster-Reefs', 
         address: email, 
       },
-      to: '"Oyster Reefs" <info@frc.ae>',
+      to: '"Blu Reefs" <info@frc.ae>',
       text: message,
       html: html,
     };

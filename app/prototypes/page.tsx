@@ -2,6 +2,7 @@ import { ARCREEF_PROTOTYPES } from '@/constants/archreef';
 import { kMaxLength } from 'buffer';
 import Image from 'next/image';
 import React from 'react';
+import MeetingScheduler from '@/components/schedulePopup';
 
 const PrototypesPage = () => {
   return (
@@ -11,7 +12,11 @@ const PrototypesPage = () => {
           Deployed artificial reef structure prototypes
         </h1>
       </div>
+      
       <div className='flex flex-col p-20 items-center font-light bg-white  '>
+      <div className='w-full flex justify-end mb-10'>
+          <MeetingScheduler />
+        </div>
         <div className='constrained-div flex flex-col  mb-20 gap-32'>
           {ARCREEF_PROTOTYPES.map((item, index) => (
             <div

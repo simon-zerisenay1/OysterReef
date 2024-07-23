@@ -21,12 +21,12 @@ export async function POST(req: Request, res: Response) {
     <div>
       <p>Dear ${name},</p>
       <p>Thank you for contacting us. We have received your message and will get back to you as soon as possible.</p>
-      <p>Best regards,<br/>Oyster-reef Team</p>
+      <p>Best regards,<br/>Blu-reef Team</p>
     </div>
   `;
 
    const replyMailOptions = {
-    from: '"Oyster-reefs team" <oysterreefs@gmail.com>',
+    from: '"Blu-reefs team" <oysterreefs@gmail.com>',
     to: `"${name}" <${email}>`,
     subject: "Re: Your Message",
     html: replyHtml,

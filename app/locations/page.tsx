@@ -2,6 +2,7 @@ import { ARCREEF_LOCATIONS } from '@/constants/archreef';
 import { kMaxLength } from 'buffer';
 import Image from 'next/image';
 import { FaLocationDot } from 'react-icons/fa6';
+import MeetingScheduler from '@/components/schedulePopup';
 
 const LocationsPage = () => {
   return (
@@ -10,6 +11,9 @@ const LocationsPage = () => {
         <h1 className='text-white'>Artificial Reef locations</h1>
       </div>
       <div className='flex flex-col p-20 items-center font-light bg-white  '>
+      <div className='w-full flex justify-end mb-10'>
+          <MeetingScheduler />
+        </div>
         <div className='constrained-div flex flex-col mb-20 gap-20  lg:flex-row'>
           {ARCREEF_LOCATIONS.map((item, index) => (
             <div
